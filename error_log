@@ -1,0 +1,1 @@
+[24-Sep-2017 14:18:09 Asia/Tbilisi] PHP Fatal error:  Call to undefined function php_info() in /home/profitla/public_html/app/Http/routes.php on line 16
